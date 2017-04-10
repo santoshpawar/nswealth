@@ -3395,7 +3395,7 @@ a {
 	background:url(../images/page_banner.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
-	padding-top:10%;
+	/*padding-top:10%;*/
 }
 #page_banner .page-header {
   margin: 86px 0 52px;
