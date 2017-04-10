@@ -39,7 +39,7 @@
                         <li class="cool-link active"><a href="about_us.php">About Us</a></li>
                         <li class="cool-link"><a href="services.php">Services</a></li>
                         <li class="cool-link"><a href="corporate-training-programmes.php">Testimonials</a></li>
-                        <li class="cool-link"><a href="career.php">About us</a></li>
+                        <li class="cool-link"><a href="career.php">Career</a></li>
                         <li class="cool-link"><a href="contact.php">Contact</a></li>
                         <li class="cool-link"><a href="contact.php">Client Login</a></li>
                     </ul>
@@ -118,22 +118,22 @@
 
 
                     <p class="m-t-40 p_18"><strong>Vision</strong></br>
-                       To be the foremost provider of Financial consultancy, Corporate Training and  Research
+                     To be the foremost provider of Financial consultancy, Corporate Training and  Research
 
-                   </p>
-                   <p class="m-t-40 p_18"><strong>Mission</strong></br>
-                       To be the partner of entrepreneur in the raising fund and Train crude future financial aspirants and give them comfort and hands on.
-
-
-                   </p>
+                 </p>
+                 <p class="m-t-40 p_18"><strong>Mission</strong></br>
+                     To be the partner of entrepreneur in the raising fund and Train crude future financial aspirants and give them comfort and hands on.
 
 
-               </div>
-           </div>
+                 </p>
 
-       </div>
 
-       <div class="col-md-5 col-sm-5 col-xs-12">
+             </div>
+         </div>
+
+     </div>
+
+     <div class="col-md-5 col-sm-5 col-xs-12">
         <div class="finance_about_page">
             <img src="images/finance/about_us-page.jpg" alt="image" class="img-responsive">
         </div>
