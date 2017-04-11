@@ -133,7 +133,7 @@
                                             </div>
                                             <h3 class="text-uppercase">INVESTMENT ADVICE</h3>
                                             <p>We look at your current financial state, future goals and risk appetite, to arrive at your customised portfolio recommendation for you to make investments, and also provide the platform for making investments</p>
-                                            <a href="debt-services.php">Read More</a>
+                                            <a href="debt-services.php">#</a>
                                         </div>
                                     </div>
                                     <div class="item">
@@ -144,7 +144,7 @@
                                                 </div>
                                                 <h3 class="text-uppercase">TAX ADVICE</h3>
                                                 <p>We analyse your income and savings information, to create a tax assessment, with advice on ways to save tax</p>
-                                                <a href="equity-services.php">Read More</a>
+                                                <a href="equity-services.php">#</a>
                                             </div>
                                         </div>
                                         <div class="item">
@@ -155,7 +155,7 @@
                                                     </div>
                                                     <h3 class="text-uppercase">FINANCIAL GOAL ADVICE</h3>
                                                     <p>Financial Goal Advice</p>
-                                                    <a href="credit-rating-services.php">Read More</a>
+                                                    <a href="credit-rating-services.php">#</a>
                                                 </div>
                                             </div>
                                         
