@@ -1,147 +1,88 @@
-<!DOCTYPE HTML>
-<html dir="ltr" lang="en">
-
-<head>
- <title>Inaya Financial Consultancy & Research / corporate-training-modules </title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="keywords" content="">
-    <meta name="description" content="">
-
-    <!-- Google fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">
-
-    <!-- Required Framework -->
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
-
-    <!-- Required Framework -->
-    <link rel="stylesheet" type="text/css" href="css/owl.carousel.css" />
-    <link rel="stylesheet" type="text/css" href="css/owl.transitions.css" />
-    <link rel="stylesheet" type="text/css" href="css/settings.css" />
-
-    <!-- Fancy Box -->
-    <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" />
-
-    <!-- Fonts Icons-->
-    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
-    <link rel="stylesheet" type="text/css" href="css/copious-icon.css" />
-
-    <!-- Navbar Css -->
-    <link rel="stylesheet" type="text/css" href="css/bootsnav.css" />
-
-    <!-- Navbar Css -->
-    <link rel="stylesheet" type="text/css" href="css/canvas.css" />
-
-    <!-- Custom Css -->
-    <link rel="stylesheet" type="text/css" href="css/color.css" />
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
-</head>
-
+ <?php include_once 'include/header.php'; ?>
 <body>
     <!-- Loader Start -->
-   <div class="loader"><div style="color:#fff; position:absolute; font-size:20px; width:100%; text-align:center; top:30%;">Inaya Financial Consultancy & Research</div>
+   <div class="loader"><div style="color:#fff; position:absolute; font-size:20px; width:100%; text-align:center; top:30%;">Nswealth</div>
         <div class="sk-rotating-plane"></div>
     </div>
     <!-- Header Top Start -->
-    <header id="header-top_3">
+       <section id="header-top">
         <div class="container">
             <div class="row">
-                <div class="header_set">
-                    <div class="col-md-10 col-sm-10 col-xs-12 text-right">
-                        <div class="get-tuch text-left"><i class="icon-telephone114"></i>
+                <div class="col-md-4 col-sm-4 col-xs-12 p-0">
+                    <div class="hidden">
+                        <h1>hidden</h1>
+                    </div>
+                    <p class="p_15 p-white p-t-10">A client base of 163+ families from across India</p>
+                </div>
+                <div class="col-md-8 col-sm-8 col-xs-12 text-right p-0">
+                    <div class="header-top-links">
+                        <div class="social-icons text-right">
                             <ul>
-                                <li>
-                                    <h4>+91-90985-89386</h4>
-                                </li>
-                                <li>
-                                    <p class="p_14">info@inayafinancial.com</p>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="get-tuch text-left"><i class="icon-alarmclock"></i>
-                            <ul>
-                                <li>
-                                    <h4>10:00 - 6:30</h4>
-                                </li>
-                                <li>
-                                    <p class="p_14">Monday to Saturday</p>
-                                </li>
+                                <li><a href="#"><i aria-hidden="true" class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i aria-hidden="true" class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-2 col-sm-2 col-xs-12 text-right">
-                        <div class="header-top-links">
-                            <div class="social-icons text-right">
-                                <ul>
-                                    <li><a href="#"><i aria-hidden="true" class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i aria-hidden="true" class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
-                                </ul>
-                            </div>
+                    <div class="cont_office">
+                        <div class="office_menu">
+                            <span class="selected">Office</span>
+                            <ul>
+                                <li><a href="#" data-office="mumbai">Vita ( Sangli)</a></li>
+                                <li><a href="#" data-office="jaipur"> Pune</a></li>
+                                <li><a href="#" data-office="jaipur"> Karad</a></li>
+                            </ul>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-
-        <!-- Header Top End -->
-
-        <!-- Navbar Start -->
-        <nav class="navbar navbar-default navbar-fixed navbar-transparent navbar-sticky dark bootsnav">
-
-            <div class="container">
-                <div class="" id="search">
-                    <button type="button" class="close">×</button>
-                    <form>
-                        <input type="search" value="" placeholder="Search on Site...">
-                        <span class="searc_button"><i class="icon-icons185"></i></span>
-                        <button type="submit" class="btn btn-primary">Search</button>
-                    </form>
+    </section>
+<!-- Header Top Start -->
+<?php include_once 'include/headerBottom.php' ?><!-- Navbar End -->
+    <!-- Navbar End -->
+<nav class="navbar navbar-default navbar-sticky no-background bootsnav">
+    <div class="container">
+        <div class="row bg-white-2">
+            <div class="col-md-12">
+                <div class="attr-nav rec-4">
+                    <ul>
+                        <li class="dropdown">
+                            <ul class="dropdown-menu cart-list">
+                                <li>
+                                </li>
+                                <li>
+                                </li>
+                                <li> </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div class="attr-nav rec-4">
                 </div>
                 <!-- Start Header Navigation -->
                 <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                        <i class="fa fa-bars"></i>
-                    </button>
-                    <a class="navbar-brand" href="index.html">
-
-                        <img src="images/logo_white.png" class="logo logo-display" alt="">
-                        <img src="images/logo_white.png" class="logo logo-scrolled" alt="">
-
-                    </a>
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu"><i class="fa fa-bars"></i></button>
                 </div>
                 <!-- End Header Navigation -->
-
                 <!-- Collect the nav links, forms, and other content for toggling -->
-                <div class="collapse navbar-collapse nav_bor_bot" id="navbar-menu">
-                    <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
-                            <li class="dropdown cool-link "><a href="index.html" >Home</a>
-                               
-                            </li>
-
-                            <li class="cool-link "><a href="about_us.html">About Us</a></li>
-
-                            <li class="dropdown cool-link "><a href="#" class="dropdown-toggle" data-toggle="dropdown">Services</a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="debt-services.html">Debt  Services</a></li>
-                                    <li><a href="equity-services.html">Equity  Services</a></li>
-                                    <li><a href="credit-rating-services.html">Credit Rating Services</a></li>
-                                    
-                                </ul>
-                            </li>
-                            <li class="cool-link active"><a href="corporate-training-modules.html">Corporate Training Modules</a></li>
-                            <li class="cool-link"><a href="career.html">Career</a></li>
-                            <li class="cool-link"><a href="contact.html">Contact us</a></li>
-                        </ul>
+                <div class="collapse navbar-collapse  nav_bor_top" id="navbar-menu">
+                    <ul class="nav navbar-nav navbar-left" data-in="fadeInDown" data-out="fadeOutUp">
+                        <li class="dropdown cool-link"><a href="index.php">Home</a>
+                        </li>
+                        <li class="cool-link"><a href="about_us.php">About Us</a></li>
+                        <li class="cool-link"><a href="services.php">Services</a></li>
+                        <li class="cool-link"><a href="corporate-training-modules.php">Testimonials</a></li>
+                        <li class="cool-link"><a href="career.php">Career</a></li>
+                        <li class="cool-link active"><a href="contact.php">Contact</a></li>
+                        <li class="cool-link"><a href="contact.php">Client Login</a></li>
+                    </ul>
                 </div>
                 <!-- /.navbar-collapse -->
-
             </div>
-        </nav>
-
-    </header>
-    <!-- Navbar End -->
-
+        </div>
+    </div>
+</nav>
     <!-- Page Banner Start -->
     <section id="page_banner" class="border_b">
         <div class="container">

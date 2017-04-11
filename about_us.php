@@ -38,7 +38,7 @@
                         </li>
                         <li class="cool-link active"><a href="about_us.php">About Us</a></li>
                         <li class="cool-link"><a href="services.php">Services</a></li>
-                        <li class="cool-link"><a href="corporate-training-programmes.php">Testimonials</a></li>
+                        <li class="cool-link"><a href="corporate-training-modules.php">Testimonials</a></li>
                         <li class="cool-link"><a href="career.php">Career</a></li>
                         <li class="cool-link"><a href="contact.php">Contact</a></li>
                         <li class="cool-link"><a href="contact.php">Client Login</a></li>

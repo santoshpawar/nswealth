@@ -75,7 +75,7 @@
                             </li>
                             <li class="cool-link"><a href="about_us.php">About Us</a></li>
                             <li class="cool-link"><a href="services.php">Services</a></li>
-                            <li class="cool-link"><a href="corporate-training-programmes.php">Testimonials</a></li>
+                            <li class="cool-link"><a href="corporate-training-modules.php">Testimonials</a></li>
                             <li class="cool-link"><a href="career.php">Career</a></li>
                             <li class="cool-link"><a href="contact.php">Contact</a></li>
                             <li class="cool-link"><a href="contact.php">Client Login</a></li>
@@ -165,7 +165,7 @@
                                             <a href="debt-services.php">
                                                 <img src="images/finance/sevices_4.jpg" alt="Owl Image"></a>
                                             </div>
-                                            <h3 class="text-uppercase"><span>1</span>INVESTMENT ADVICE</h3>
+                                            <h3 class="text-uppercase">INVESTMENT ADVICE</h3>
                                             <p>We look at your current financial state, future goals and risk appetite, to arrive at your customised portfolio recommendation for you to make investments, and also provide the platform for making investments</p>
                                             <a href="debt-services.php">Read More</a>
                                         </div>
@@ -176,7 +176,7 @@
                                                 <a href="equity-services.php">
                                                     <img src="images/finance/sevices_2.jpg" alt="Owl Image"></a>
                                                 </div>
-                                                <h3 class="text-uppercase"><span>2</span>TAX ADVICE</h3>
+                                                <h3 class="text-uppercase">TAX ADVICE</h3>
                                                 <p>We analyse your income and savings information, to create a tax assessment, with advice on ways to save tax</p>
                                                 <a href="equity-services.php">Read More</a>
                                             </div>
@@ -187,22 +187,12 @@
                                                     <a href="credit-rating-services.php">
                                                         <img src="images/finance/sevices_3.jpg" alt="Owl Image"></a>
                                                     </div>
-                                                    <h3 class="text-uppercase"><span>3</span>FINANCIAL GOAL ADVICE</h3>
+                                                    <h3 class="text-uppercase">FINANCIAL GOAL ADVICE</h3>
                                                     <p>Financial Goal Advice</p>
                                                     <a href="credit-rating-services.php">Read More</a>
                                                 </div>
                                             </div>
-                                            <div class="item">
-                                                <div class="services">
-                                                    <div class="image_s">
-                                                        <a href="equity-services.php">
-                                                            <img src="images/finance/sevices_2.jpg" alt="Owl Image"></a>
-                                                        </div>
-                                                        <h3 class="text-uppercase"><span>2</span>FINANCIAL GOAL ADVICE</h3>
-                                                        <p>We look at your current financial state and investment assets, to prescribe detailed recommendations on meeting each goal, in terms of savings</p>
-                                                        <a href="equity-services.php">Read More</a>
-                                                    </div>
-                                                </div>
+                                        
                                             </div>
                                         </div>
                                     </div>

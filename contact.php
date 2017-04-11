@@ -71,7 +71,7 @@
                         </li>
                         <li class="cool-link"><a href="about_us.php">About Us</a></li>
                         <li class="cool-link"><a href="services.php">Services</a></li>
-                        <li class="cool-link"><a href="corporate-training-programmes.php">Testimonials</a></li>
+                        <li class="cool-link"><a href="corporate-training-modules.php">Testimonials</a></li>
                         <li class="cool-link"><a href="career.php">Career</a></li>
                         <li class="cool-link active"><a href="contact.php">Contact</a></li>
                         <li class="cool-link"><a href="contact.php">Client Login</a></li>
@@ -204,7 +204,7 @@
                 <li><a href="index.html">Home</a></li>
                 <li><a href="about_us.html">About Us</a></li>
                 <li><a href="debt-services.html">Services</a></li>
-                <li><a href="corporate-training-programmes.html">Corporate Training Modules</a></li>
+                <li><a href="corporate-training-modules.html">Corporate Training Modules</a></li>
                 <li><a href="career.html">Carres</a></li>
                 <li><a href="contact.html">Contact us</a></li>
             </ul>
