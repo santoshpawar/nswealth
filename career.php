@@ -95,10 +95,10 @@
                     <div class="row">
                         <div class="col-md-12 p-b-35">
                             <p class="m-t-40 p_18">
-                                Curent Opening 
+                                Right now we Dont have openings
                             </p></br>
 
-                            <div class="project_details_text p-t-50">
+                            <!-- <div class="project_details_text p-t-50">
                                 <ul>
                                     <li>Internship opportunity in our company
 
@@ -112,7 +112,7 @@
 
                                     <li>Corporate Trainer</li>
                                 </ul>
-                            </div>
+                            </div> -->
                         </br>
                         <p class="m-t-40 p_18">Email your resume:  <a href="mailto:info@inayafinancial.com" style="color:#d84434">info@inayafinancial.com</a>
 
