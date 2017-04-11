@@ -4,39 +4,7 @@
    <?php include_once 'include/loader.php'; ?>
     <!-- Loader End -->
     <!-- Header Top Start -->
-    <section id="header-top">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 col-sm-4 col-xs-12 p-0">
-                    <div class="hidden">
-                        <h1>hidden</h1>
-                    </div>
-                    <p class="p_15 p-white p-t-10">A client base of 163+ families from across India</p>
-                </div>
-                <div class="col-md-8 col-sm-8 col-xs-12 text-right p-0">
-                    <div class="header-top-links">
-                        <div class="social-icons text-right">
-                            <ul>
-                                <li><a href="#"><i aria-hidden="true" class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i aria-hidden="true" class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="cont_office">
-                        <div class="office_menu">
-                            <span class="selected">Office</span>
-                            <ul>
-                                <li><a href="#" data-office="mumbai">Vita ( Sangli)</a></li>
-                                <li><a href="#" data-office="jaipur"> Pune</a></li>
-                                <li><a href="#" data-office="jaipur"> Karad</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+  
     <!-- Header Top End -->
     <!-- Header Bottom Start -->
     <?php include_once 'include/headerBottom.php' ?>
@@ -76,7 +44,7 @@
                             <li class="cool-link"><a href="corporate-training-modules.php">Testimonials</a></li>
                             <li class="cool-link"><a href="career.php">Career</a></li>
                             <li class="cool-link"><a href="contact.php">Contact</a></li>
-                            <li class="cool-link"><a href="contact.php">Client Login</a></li>
+                            <li class="cool-link"><a href="https://www.ifastfinancial.co.in/ifast/acl/iFastClientLogin.svdo?ifaCo=NITEN&id=&password" target="_blank">Client Login</a></li>
                         </ul>
                     </div>
                     <!-- /.navbar-collapse -->
