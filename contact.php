@@ -2,9 +2,7 @@
 
 <body>
     <!-- Loader Start -->
-    <div class="loader"><div style="color:#fff; position:absolute; font-size:20px; width:100%; text-align:center; top:30%;">NSWEALTH</div>
-    <div class="sk-rotating-plane"></div>
-</div>
+      <?php include_once 'include/loader.php'; ?>
    <section id="header-top">
         <div class="container">
             <div class="row">

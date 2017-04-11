@@ -1,9 +1,7 @@
  <?php include_once 'include/header.php'; ?>
 <body>
     <!-- Loader Start -->
-   <div class="loader"><div style="color:#fff; position:absolute; font-size:20px; width:100%; text-align:center; top:30%;">Nswealth</div>
-        <div class="sk-rotating-plane"></div>
-    </div>
+     <?php include_once 'include/loader.php'; ?>
     <!-- Header Top Start -->
        <section id="header-top">
         <div class="container">
