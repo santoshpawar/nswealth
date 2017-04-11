@@ -70,7 +70,7 @@
                         </li>
                         <li class="cool-link"><a href="about_us.php">About Us</a></li>
                         <li class="cool-link"><a href="services.php">Services</a></li>
-                        <li class="cool-link"><a href="corporate-training-modules.php">Testimonials</a></li>
+                        <li class="cool-link"><a href="#">Testimonials</a></li>
                         <li class="cool-link"><a href="career.php">Career</a></li>
                         <li class="cool-link active"><a href="contact.php">Contact</a></li>
                         <li class="cool-link"><a href="https://www.ifastfinancial.co.in/ifast/acl/iFastClientLogin.svdo?ifaCo=NITEN&id=&password" target="_blank">Client Login</a></li>
