@@ -29,4 +29,6 @@
     <!-- Custom Css -->
     <link rel="stylesheet" type="text/css" href="css/color.css" />
     <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/templatemo-style.css" />
+    <link rel="stylesheet" type="text/css" href="css/flexslider.css" />
 </head>

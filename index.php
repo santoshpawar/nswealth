@@ -9,7 +9,7 @@
     <section id="header-top">
         <div class="container">
             <div class="row">
-                <div class="col-md-4 col-sm-4 col-xs-12 p-0">
+                <div class="col-md-4 col-sm-4 col-xs-8 p-0">
                     <div class="hidden">
                         <h1>hidden</h1>
                     </div>
@@ -88,61 +88,38 @@
     </nav>
     <!-- Navbar End -->
     <!-- Slider Start -->
-    <section class="rev_slider_wrapper">
-        <!-- START REVOLUTION SLIDER 5.0 auto mode -->
-        <div id="rev_slider" class="rev_slider" data-version="5.0">
-            <ul>
-                <!-- SLIDE  -->
-                <li data-transition="fade">
-                    <!-- MAIN IMAGE -->
-                    <img src="images/finance/bannar_1.jpg" alt="" data-bgposition="center center" data-bgfit="cover">
-                    <!-- LAYER NR. 1 -->
-                    <h1 class="tp-caption  tp-resizeme color_white p-56" data-x="left" data-y="280" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="700">
-                        <span class="p-w-300">INVESTMENT <br>ADVICE</span>
-                    </h1>
-                    <!-- LAYER NR. 3 -->
-                    <div class="tp-caption  tp-resizeme" data-x="left" data-y="433" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000">
-                        <p class="p_20 color_white">We look at your current financial state, future goals and risk appetite, to arrive at your customised portfolio recommendation
-                            <br> for you to make investments, and also provide the platform for making investments</p>
-                        </div>
-                        <!-- LAYER NR. 4 -->
-                        <div class="tp-caption  tp-resizeme" data-x="left" data-y="490" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1500">
-                            <a href="debt-services.php" class="btn-light">TAX ADVICE</a>
-                        </div>
-                    </li>
-                    <li data-transition="fade"> <img src="images/finance/bannar_2.jpg" alt="" data-bgposition="center center" data-bgfit="cover">
-                        <!-- LAYER NR. 1 -->
-                        <h1 class="tp-caption  tp-resizeme color_white text-right p-56" data-x="right" data-y="300" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
-                            <span class="p-w-300">FINANCIAL</span>
-                        </h1>
-                        <!-- LAYER NR. 2 -->
-                        <h1 class="tp-caption  tp-resizeme color_white text-right p-56" data-x="right" data-y="360" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="600">
-                            <span class="p-w-300"> GOAL ADVICE</span>
-                        </h1>
-                        <!-- LAYER NR. 3 -->
-                        <div class="tp-caption  tp-resizeme text-right" data-x="right" data-y="430" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="400">
-                            <p class="p_20 color_white">We look at your current financial state and investment assets, <br> to prescribe detailed recommendations on meeting each goal, in terms of savings
-                            </p>
-                        </div>
-                        <!-- LAYER NR. 4 -->
-                        <div class="tp-caption  tp-resizeme text-right" data-x="right" data-y="490" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
-                            <a href="equity-services.php" class="btn-whitw">Explore</a>
-                        </div>
-                    </li>
-                    <li data-transition="fade"> <img src="images/finance/bannar_3.jpg" alt="" data-bgposition="center center" data-bgfit="cover">
-                        <!-- LAYER NR. 1 -->
-                        <h1 class="tp-caption  tp-resizeme color_white p-56" data-x="left" data-y="330" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
-                            <span class="p-w-300">TAX ADVICE</span>
-                        </h1>
-                        <!-- LAYER NR. 2 -->
-                        <div class="tp-caption  tp-resizeme " data-x="left" data-y="400" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
-                            <p class="p_20 color_white">We analyse your income and savings information, to create a tax assessment, with advice on ways to save tax
-                            </div>
-                        </li>
-                    </ul>
+<section class="tm-banner">
+        <!-- Flexslider -->
+        <div class="flexslider flexslider-banner">
+          <ul class="slides">
+            <li>
+                <div class="tm-banner-inner">
+                    <h1 class="tm-banner-title">Find <span class="tm-yellow-text">The Best</span> Place</h1>
+                    <p class="tm-banner-subtitle">For Your Holidays</p>
+                    <a href="#more" class="tm-banner-link">More Activities</a>  
                 </div>
-                <!-- END REVOLUTION SLIDER -->
-            </section>
+                <img src="imgages/add.jpg" alt="Image" />  
+            </li>
+            <li>
+                <div class="tm-banner-inner">
+                    <h1 class="tm-banner-title">Lorem <span class="tm-yellow-text">Ipsum</span> Dolor</h1>
+                    <p class="tm-banner-subtitle">Wonderful Destinations</p>
+                    <a href="#more" class="tm-banner-link">More Activities</a>  
+                </div>
+              <img src="img/webpages.jpg" alt="Image" />
+            </li>
+            <li>
+                <div class="tm-banner-inner">
+                    <h1 class="tm-banner-title">Proin <span class="tm-yellow-text">Gravida</span> Nibhvell</h1>
+                    <p class="tm-banner-subtitle">Velit Auctor</p>
+                    <a href="#more" class="tm-banner-link">More Activities</a>  
+                </div>
+              <img src="images/about_us-page.jpg" alt="Image" />
+            </li>
+          </ul>
+        </div>  
+    </section>
+
             <!-- Slider End -->
             <!-- Services Start -->
             <section id="s_services" class="p-t-100 p-b-100">

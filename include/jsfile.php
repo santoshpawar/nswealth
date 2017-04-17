@@ -5,6 +5,10 @@
 <script type="text/javascript" src="js/scroll-desktop.js"></script>
 <script type="text/javascript" src="js/scroll-desktop-smooth.js"></script>
 
+<script type="text/javascript" src="js/moment.js"></script>
+<script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="js/templatemo-script.js"></script>
+
 <script src="js/themepunch/jquery.themepunch.revolution.min.js"></script>
 <script src="js/themepunch/jquery.themepunch.tools.min.js"></script>
 <script src="js/themepunch/revolution.extension.layeranimation.min.js"></script>

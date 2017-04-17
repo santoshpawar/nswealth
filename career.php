@@ -69,10 +69,10 @@
                         <ul class="nav navbar-nav navbar-left" data-in="fadeInDown" data-out="fadeOutUp">
                             <li class="dropdown cool-link active"><a href="index.php">Home</a>
                             </li>
-                            <li class="cool-link"><a href="about_us.php">About Us</a></li>
+                            <li class="cool-link active"><a href="career.php">Our Team</a></li>
                             <li class="cool-link"><a href="services.php">Services</a></li>
+                            <li class="cool-link"><a href="about_us.php">About Us</a></li>
                             <li class="cool-link"><a href="corporate-training-modules.php">Testimonials</a></li>
-                                  <li class="cool-link active"><a href="career.php">Career</a></li>
                             <li class="cool-link"><a href="contact.php">Contact</a></li>
                             <li class="cool-link"><a href="contact.php">Client Login</a></li>
                         </ul>
