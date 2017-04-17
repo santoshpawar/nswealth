@@ -119,7 +119,7 @@
                                 </ul>
                             </div> -->
                         </br>
-                        <p class="m-t-40 p_18">Email your resume:  <a href="mailto:info@inayafinancial.com" style="color:#d84434">info@inayafinancial.com</a>
+                     <p class="m-t-40 p_18">Email your resume:  <a href="mailto:career@nswealth.in" style="color:#d84434">career@nswealth.in</a>
 
                         </p>
 
