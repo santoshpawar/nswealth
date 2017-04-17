@@ -1,11 +1,10 @@
 <?php include_once 'include/header.php'; ?>
 <body class="finance">
     <!-- Loader Start -->
-    <!--  <div class="loader"><div style="color:#fff; position:absolute; font-size:20px; width:100%; text-align:center; top:30%;">Inaya Financial Consultancy & Research</div>
-        <div class="sk-rotating-plane"></div>
-    </div> -->
+   <?php include_once 'include/loader.php'; ?>
     <!-- Loader End -->
     <!-- Header Top Start -->
+<<<<<<< HEAD
     <section id="header-top">
         <div class="container">
             <div class="row">
@@ -39,6 +38,9 @@
             </div>
         </div>
     </section>
+=======
+  
+>>>>>>> e0295ab4f4bc9dec9759c24bc6552b58aa04e8aa
     <!-- Header Top End -->
     <!-- Header Bottom Start -->
     <?php include_once 'include/headerBottom.php' ?>
@@ -75,10 +77,10 @@
                             </li>
                             <li class="cool-link"><a href="about_us.php">About Us</a></li>
                             <li class="cool-link"><a href="services.php">Services</a></li>
-                            <li class="cool-link"><a href="corporate-training-modules.php">Testimonials</a></li>
+                            <li class="cool-link"><a href="#">Testimonials</a></li>
                             <li class="cool-link"><a href="career.php">Career</a></li>
                             <li class="cool-link"><a href="contact.php">Contact</a></li>
-                            <li class="cool-link"><a href="contact.php">Client Login</a></li>
+                            <li class="cool-link"><a href="https://www.ifastfinancial.co.in/ifast/acl/iFastClientLogin.svdo?ifaCo=NITEN&id=&password" target="_blank">Client Login</a></li>
                         </ul>
                     </div>
                     <!-- /.navbar-collapse -->
@@ -144,7 +146,7 @@
                                             </div>
                                             <h3 class="text-uppercase">INVESTMENT ADVICE</h3>
                                             <p>We look at your current financial state, future goals and risk appetite, to arrive at your customised portfolio recommendation for you to make investments, and also provide the platform for making investments</p>
-                                            <a href="debt-services.php">Read More</a>
+                                            <a href="debt-services.php">#</a>
                                         </div>
                                     </div>
                                     <div class="item">
@@ -155,7 +157,7 @@
                                                 </div>
                                                 <h3 class="text-uppercase">TAX ADVICE</h3>
                                                 <p>We analyse your income and savings information, to create a tax assessment, with advice on ways to save tax</p>
-                                                <a href="equity-services.php">Read More</a>
+                                                <a href="equity-services.php">#</a>
                                             </div>
                                         </div>
                                         <div class="item">
@@ -166,7 +168,7 @@
                                                     </div>
                                                     <h3 class="text-uppercase">FINANCIAL GOAL ADVICE</h3>
                                                     <p>Financial Goal Advice</p>
-                                                    <a href="credit-rating-services.php">Read More</a>
+                                                    <a href="credit-rating-services.php">#</a>
                                                 </div>
                                             </div>
                                         

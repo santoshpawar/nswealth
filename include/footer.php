@@ -10,9 +10,9 @@
                 <ul class="footer_link">
                     <li><a href="index.php">Home</a></li>
                     <li><a href="about_us.php">About Us</a></li>
-                    <li><a href="debt-services.php">Services</a></li>
-                    <li><a href="corporate-training-modules.php">Corporate Training Modules</a></li>
-                    <li><a href="career.php">Carres</a></li>
+                    <li><a href="services.php">Services</a></li>
+                    <li><a href="#">Corporate Training Modules</a></li>
+                    <li><a href="career.php">Careers</a></li>
                     <li><a href="contact.php">Contact us</a></li>
                 </ul>
             </div>
@@ -22,7 +22,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-7">
-                    <p>Copyrights © 2017 Inaya Financial. All rights reserved.</p>
+                    <p>Copyrights © 2017 Nswealth Financial. All rights reserved.</p>
                 </div>
                 <div class="col-md-5 text-right">
                     <p>Made with <i class="icon-heart3"></i> by <a href="http://www.nswealth.in/" target="_blank">NSwealth </a></p>

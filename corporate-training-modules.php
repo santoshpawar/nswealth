@@ -1,9 +1,7 @@
  <?php include_once 'include/header.php'; ?>
 <body>
     <!-- Loader Start -->
-   <div class="loader"><div style="color:#fff; position:absolute; font-size:20px; width:100%; text-align:center; top:30%;">Nswealth</div>
-        <div class="sk-rotating-plane"></div>
-    </div>
+     <?php include_once 'include/loader.php'; ?>
     <!-- Header Top Start -->
        <section id="header-top">
         <div class="container">
@@ -72,10 +70,10 @@
                         </li>
                         <li class="cool-link"><a href="about_us.php">About Us</a></li>
                         <li class="cool-link"><a href="services.php">Services</a></li>
-                        <li class="cool-link"><a href="corporate-training-modules.php">Testimonials</a></li>
+                        <li class="cool-link"><a href="#">Testimonials</a></li>
                         <li class="cool-link"><a href="career.php">Career</a></li>
                         <li class="cool-link active"><a href="contact.php">Contact</a></li>
-                        <li class="cool-link"><a href="contact.php">Client Login</a></li>
+                        <li class="cool-link"><a href="https://www.ifastfinancial.co.in/ifast/acl/iFastClientLogin.svdo?ifaCo=NITEN&id=&password" target="_blank">Client Login</a></li>
                     </ul>
                 </div>
                 <!-- /.navbar-collapse -->
