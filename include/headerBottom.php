@@ -88,13 +88,13 @@
 
                                     <li>
 
-                                        <h4>+91-9145354545</h4>
+                                        <h4>+02347276435 </h4>
 
                                     </li>
 
                                     <li>
 
-                                        <p class="p_14">nitin.sawant@nswealth.in
+                                        <p class="p_14">info@nswealth.in
 
                                         </p>
 
@@ -130,7 +130,7 @@
 
                                     <li>
 
-                                        <h4>10:00 - 6:30</h4>
+                                        <h4>10:00 - 7.00</h4>
 
                                     </li>
 
@@ -156,13 +156,13 @@
 
                                     <li>
 
-                                        <h4>+91-90985-89386</h4>
+                                        <h4>9145354545  </h4>
 
                                     </li>
 
                                     <li>
 
-                                        <p class="p_14">nitin.sawant@nswealth.in
+                                        <p class="p_14">info@nswealth.in
 
                                         </p>
 
@@ -198,7 +198,7 @@
 
                                     <li>
 
-                                        <h4>10:00 - 6:30</h4>
+                                        <h4>10:00 - 7.00</h4>
 
                                     </li>
 
@@ -222,13 +222,13 @@
 
                                     <li>
 
-                                        <h4>+91-90985-89386</h4>
+                                        <h4>02164221545</h4>
 
                                     </li>
 
                                     <li>
 
-                                        <p class="p_14">nitin.sawant@nswealth.in
+                                        <p class="p_14">info@nswealth.in
 
                                         </p>
 
@@ -264,7 +264,7 @@
 
                                     <li>
 
-                                        <h4>10:00 - 6:30</h4>
+                                        <h4>10:00 - 7.00</h4>
 
                                     </li>
 

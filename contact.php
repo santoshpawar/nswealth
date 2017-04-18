@@ -125,7 +125,7 @@
                 <div class="footer_1_contact">
                     <p><i class="icon-telephone114"></i>+91-9145354545</p>
                     <br>
-                    <p><i class=" icon-icons142"></i>nitin.sawant@nswealth.in
+                    <p><i class=" icon-icons142"></i>info@nswealth.in
                      </p>
                     <br>
                     <p><i class="icon-icons20"></i>Mon to Saturday - 10:00 to 6:30</p>
