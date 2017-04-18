@@ -35,17 +35,12 @@
                         <ul class="nav navbar-nav navbar-left" data-in="fadeInDown" data-out="fadeOutUp">
                             <li class="dropdown cool-link active"><a href="index.php">Home</a>
                             </li>
-                            <li class="cool-link active"><a href="career.php">Our Team</a></li>
-                            <li class="cool-link"><a href="services.php">Services</a></li>
-<<<<<<< HEAD
                             <li class="cool-link"><a href="about_us.php">About Us</a></li>
-                            <li class="cool-link"><a href="corporate-training-modules.php">Testimonials</a></li>
-=======
+                            <li class="cool-link"><a href="services.php">Services</a></li>
                             <li class="cool-link"><a href="#">Testimonials</a></li>
                                   <li class="cool-link active"><a href="career.php">Career</a></li>
->>>>>>> e0295ab4f4bc9dec9759c24bc6552b58aa04e8aa
                             <li class="cool-link"><a href="contact.php">Contact</a></li>
-                            <li class="cool-link"><a href="https://www.ifastfinancial.co.in/ifast/acl/iFastClientLogin.svdo?ifaCo=NITEN&id=&password" target="_blank">Client Login</a></li>
+                            <li class="cool-link"><a href="http://nswealth.my-portfolio.co.in" target="_blank">Client Login</a></li>
                         </ul>
                     </div>
                     <!-- /.navbar-collapse -->
@@ -119,7 +114,7 @@
                                 </ul>
                             </div> -->
                         </br>
-                     <p class="m-t-40 p_18">Email your resume:  <a href="mailto:career@nswealth.in" style="color:#d84434">career@nswealth.in</a>
+                        <p class="m-t-40 p_18">Email your resume:  <a href="mailto:career@nswealth.in" style="color:#d84434">career@nswealth.in</a>
 
                         </p>
 
