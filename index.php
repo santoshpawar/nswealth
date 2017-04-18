@@ -79,12 +79,12 @@
                     <img src="images/finance/bannar_1.jpg" alt="" data-bgposition="center center" data-bgfit="cover">
                     <!-- LAYER NR. 1 -->
                     <h1 class="tp-caption  tp-resizeme color_white p-56" data-x="left" data-y="280" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="700">
-                        <span class="p-w-300">INVESTMENT <br>ADVICE</span>
+                        <span class="p-w-300">COMPREHENSIVE <br>FINANCIAL PLANNING</span>
                     </h1>
                     <!-- LAYER NR. 3 -->
                     <div class="tp-caption  tp-resizeme" data-x="left" data-y="433" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000">
-                        <p class="p_20 color_white">We look at your current financial state, future goals and risk appetite, to arrive at your customised portfolio recommendation
-                            <br> for you to make investments, and also provide the platform for making investments</p>
+                        <p class="p_20 color_white">It gives a holistic picture to an individuals about all the aspects of his finances as it gives suggestions considering <br>Emergency planning,
+                             Risk planning, Goal based planning, Retirement planning and Succession planning.</p>
                         </div>
                         <!-- LAYER NR. 4 -->
                         <div class="tp-caption  tp-resizeme" data-x="left" data-y="490" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1500">
@@ -94,15 +94,15 @@
                     <li data-transition="fade"> <img src="images/finance/bannar_2.jpg" alt="" data-bgposition="center center" data-bgfit="cover">
                         <!-- LAYER NR. 1 -->
                         <h1 class="tp-caption  tp-resizeme color_white text-right p-56" data-x="right" data-y="300" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
-                            <span class="p-w-300">FINANCIAL</span>
+                            <span class="p-w-300">STARTER</span>
                         </h1>
                         <!-- LAYER NR. 2 -->
                         <h1 class="tp-caption  tp-resizeme color_white text-right p-56" data-x="right" data-y="360" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="600">
-                            <span class="p-w-300"> GOAL ADVICE</span>
+                            <span class="p-w-300"> FINANCIAL PLANNING</span>
                         </h1>
                         <!-- LAYER NR. 3 -->
                         <div class="tp-caption  tp-resizeme text-right" data-x="right" data-y="430" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="400">
-                            <p class="p_20 color_white">We look at your current financial state and investment assets, <br> to prescribe detailed recommendations on meeting each goal, in terms of savings
+                            <p class="p_20 color_white">We look for those individuals who have limited goals at the current juncture of their life.The starter plan is ideal for the individuals<br> who want to experience the overall planning process,including Retirement Planning, but want to start with a limited set of goals.
                             </p>
                         </div>
                         <!-- LAYER NR. 4 -->
@@ -113,11 +113,23 @@
                     <li data-transition="fade"> <img src="images/finance/bannar_3.jpg" alt="" data-bgposition="center center" data-bgfit="cover">
                         <!-- LAYER NR. 1 -->
                         <h1 class="tp-caption  tp-resizeme color_white p-56" data-x="left" data-y="330" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
-                            <span class="p-w-300">TAX ADVICE</span>
+                            <span class="p-w-300">EARLY PLANNING FOR RETIREMENT</span>
                         </h1>
                         <!-- LAYER NR. 2 -->
                         <div class="tp-caption  tp-resizeme " data-x="left" data-y="400" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
-                            <p class="p_20 color_white">We analyse your income and savings information, to create a tax assessment, with advice on ways to save tax
+                            <p class="p_20 color_white">We look those individuals who want to start planning for their retirement at an early stage and have ample time on their side.<br>
+                             This Solution will focus mainly on Accumulation
+                            </div>
+                        </li>
+                        <li data-transition="fade"> <img src="images/finance/bannar_3.jpg" alt="" data-bgposition="center center" data-bgfit="cover">
+                        <!-- LAYER NR. 1 -->
+                        <h1 class="tp-caption  tp-resizeme color_white p-56" data-x="left" data-y="330" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
+                            <span class="p-w-300">RISK PLANNING</span>
+                        </h1>
+                        <!-- LAYER NR. 2 -->
+                        <div class="tp-caption  tp-resizeme " data-x="left" data-y="400" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
+                            <p class="p_20 color_white">We those people who have a significant insurance portfolio and feel the need to scrub
+it.This product can also cater to <br>young individuals as generally they need to get covered for a much higher risk attached to their life and health.
                             </div>
                         </li>
                     </ul>
