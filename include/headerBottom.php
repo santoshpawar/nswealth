@@ -40,7 +40,7 @@
 
                         <div class="office_menu">
 
-                            <span class="selected">Office</span>
+                            <span class="selected" data-office="office">Office</span>
 
                             <ul>
 
@@ -80,6 +80,72 @@
 
                     <div class="officeaddress">
 
+                              <div class="addressbox" data-office="office">
+
+                            <div class="get-tuch text-left"><i class="icon-telephone114 color_red"></i>
+
+                                <ul>
+
+                                    <li>
+
+                                        <h4>9145354545  </h4>
+
+                                    </li>
+
+                                    <li>
+
+                                        <p class="p_14">info@nswealth.in
+
+                                        </p>
+
+                                    </li>
+
+                                </ul>
+
+                            </div>
+
+                            <div class="get-tuch text-left"><i class="icon-icons74 color_red"></i>
+
+                                <ul>
+
+                                    <li>
+
+                                        <h4>Address</h4>
+
+                                    </li>
+
+                                    <li>
+
+                                        <p class="p_14">NS Wealth Solution Pvt Ltd</p>
+
+                                    </li>
+
+                                </ul>
+
+                            </div>
+
+                            <div class="get-tuch text-left"><i class="icon-alarmclock color_red"></i>
+
+                                <ul>
+
+                                    <li>
+
+                                        <h4>10:00 - 7.00</h4>
+
+                                    </li>
+
+                                    <li>
+
+                                        <p class="p_14">Monday to Saturday</p>
+
+                                    </li>
+
+                                </ul>
+
+                            </div>
+
+                        </div>
+
                         <div class="addressbox" data-office="vita">
 
                             <div class="get-tuch text-left"><i class="icon-telephone114 color_red"></i>
@@ -116,7 +182,7 @@
 
                                     <li>
 
-                                        <p class="p_14">NS Wealth Solution Pvt. Ltd. </p>
+                                        <p class="p_14">Vita</p>
 
                                     </li>
 
@@ -184,7 +250,7 @@
 
                                     <li>
 
-                                        <p class="p_14">Vita</p>
+                                        <p class="p_14">Pune</p>
 
                                     </li>
 
@@ -250,7 +316,7 @@
 
                                     <li>
 
-                                        <p class="p_14">Vita</p>
+                                        <p class="p_14">Karad</p>
 
                                     </li>
 
