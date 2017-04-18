@@ -87,9 +87,9 @@
                              Risk planning, Goal based planning, Retirement planning and Succession planning.</p>
                         </div>
                         <!-- LAYER NR. 4 -->
-                        <div class="tp-caption  tp-resizeme" data-x="left" data-y="490" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1500">
+                        <!-- <div class="tp-caption  tp-resizeme" data-x="left" data-y="490" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1500">
                             <a href="debt-services.php" class="btn-light">TAX ADVICE</a>
-                        </div>
+                        </div> -->
                     </li>
                     <li data-transition="fade"> <img src="images/finance/bannar_2.jpg" alt="" data-bgposition="center center" data-bgfit="cover">
                         <!-- LAYER NR. 1 -->
@@ -106,9 +106,9 @@
                             </p>
                         </div>
                         <!-- LAYER NR. 4 -->
-                        <div class="tp-caption  tp-resizeme text-right" data-x="right" data-y="490" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
+                        <!-- <div class="tp-caption  tp-resizeme text-right" data-x="right" data-y="490" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
                             <a href="equity-services.php" class="btn-whitw">Explore</a>
-                        </div>
+                        </div> -->
                     </li>
                     <li data-transition="fade"> <img src="images/finance/bannar_3.jpg" alt="" data-bgposition="center center" data-bgfit="cover">
                         <!-- LAYER NR. 1 -->
