@@ -3,7 +3,7 @@
 <body>
     <!-- Loader Start -->
       <?php include_once 'include/loader.php'; ?>
-   
+   <div class="pm-button"><a href="https://www.payumoney.com/paybypayumoney/#/CC1EDC79885254A35BE6995EEDC73794"><img src="https://www.payumoney.com//media/images/payby_payumoney/buttons/111.png" /></a></div>
 <!-- Header Top Start -->
 <?php include_once 'include/headerBottom.php' ?><!-- Navbar End -->
 <nav class="navbar navbar-default navbar-sticky no-background bootsnav">
