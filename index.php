@@ -41,6 +41,7 @@
                             </li>
                             <li class="cool-link"><a href="about_us.php">About Us</a></li>
                             <li class="cool-link"><a href="services.php">Services</a></li>
+                                    <li class="cool-link "><a href="pricing.php">Pricing</a></li>
                             <li class="cool-link"><a href="#">Testimonials</a></li>
                             <li class="cool-link"><a href="career.php">Career</a></li>
                             <li class="cool-link"><a href="contact.php">Contact</a></li>
@@ -53,7 +54,7 @@
                                 </ul>
                             </li> -->
                             <li class="dropdown cool-link on"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Member Login</a>
-                                <ul class="dropdown-menu animated fadeInDown" style="display: block; opacity: 1;">
+                                <ul class="dropdown-menu animated fadeInDown" style="display: block; opacity: 0;">
                                     <li><a href="http://nswealth.my-portfolio.co.in/" target="_blank">Portfolio</a></li>
                                     <li><a href="https://www.ifastfinancial.co.in/ifast/acl/iFastClientLogin.svdo?ifaCo=NITEN&id=&password">IFAST Login</a></li>
                                     <li><a href="credit-rating-services.html">NS Consultant Login</a></li>
