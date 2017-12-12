@@ -1,10 +1,31 @@
+
 <?php include_once 'include/header.php'; ?>
+<!-- <script>setTimeout(function(){window.location.href="index.php"},30000);</script> -->
+<style type="text/css">
+
+</style>
 <body class="finance">
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=709882962456017";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=916969611725131";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
     <!-- Loader Start -->
-   <?php include_once 'include/loader.php'; ?>
+    <?php include_once 'include/loader.php'; ?>
     <!-- Loader End -->
     <!-- Header Top Start -->
-  
+
     <!-- Header Top End -->
     <!-- Header Bottom Start -->
     <?php include_once 'include/headerBottom.php' ?>
@@ -41,7 +62,7 @@
                             </li>
                             <li class="cool-link"><a href="about_us.php">About Us</a></li>
                             <li class="cool-link"><a href="services.php">Services</a></li>
-                                    <li class="cool-link "><a href="pricing.php">Pricing</a></li>
+                       <!--      <li class="cool-link "><a href="pricing.php">Pricing</a></li> -->
                             <li class="cool-link"><a href="#">Testimonials</a></li>
                             <li class="cool-link"><a href="career.php">Career</a></li>
                             <li class="cool-link"><a href="contact.php">Contact</a></li>
@@ -50,15 +71,15 @@
                                     <li><a href="http://nswealth.my-portfolio.co.in/" target="_blank">Portfolio</a></li>
                                     <li><a href="https://www.ifastfinancial.co.in/ifast/acl/iFastClientLogin.svdo?ifaCo=NITEN&id=&password">IFAST Login</a></li>
                                     <li><a href="credit-rating-services.html">NS Consultant Login</a></li>
-                                    
+
                                 </ul>
                             </li> -->
-                            <li class="dropdown cool-link on"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Member Login</a>
-                                <ul class="dropdown-menu animated fadeInDown" style="display: block; opacity: 0;">
+                           <li class="dropdown cool-link on"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Member Login</a>
+                                <ul class="dropdown-menu animated fadeInDown" style="display: none; opacity: 1;">
                                     <li><a href="http://nswealth.my-portfolio.co.in/" target="_blank">Portfolio</a></li>
                                     <li><a href="https://www.ifastfinancial.co.in/ifast/acl/iFastClientLogin.svdo?ifaCo=NITEN&id=&password">IFAST Login</a></li>
                                     <li><a href="credit-rating-services.html">NS Consultant Login</a></li>
-                                    
+
                                 </ul>
                             </li>
                         </ul>
@@ -68,196 +89,177 @@
             </div>
         </div>
     </nav>
+   
     <!-- Navbar End -->
     <!-- Slider Start -->
     <section class="rev_slider_wrapper">
         <!-- START REVOLUTION SLIDER 5.0 auto mode -->
-        <div id="rev_slider" class="rev_slider" data-version="5.0">
-            <ul>
-                <!-- SLIDE  -->
-                <li data-transition="fade">
-                    <!-- MAIN IMAGE -->
-                    <img src="images/finance/bannar_1.jpg" alt="" data-bgposition="center center" data-bgfit="cover">
-                    <!-- LAYER NR. 1 -->
-                    <h1 class="tp-caption  tp-resizeme color_white p-56" data-x="left" data-y="280" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="700">
-                        <span class="p-w-300">COMPREHENSIVE <br>FINANCIAL PLANNING</span>
-                    </h1>
-                    <!-- LAYER NR. 3 -->
-                    <div class="tp-caption  tp-resizeme" data-x="left" data-y="433" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000">
-                        <p class="p_20 color_white">It gives a holistic picture to an individuals about all the aspects of his finances as it gives suggestions considering <br>Emergency planning,
-                             Risk planning, Goal based planning, Retirement planning and Succession planning.</p>
-                        </div>
-                        <!-- LAYER NR. 4 -->
-                        <!-- <div class="tp-caption  tp-resizeme" data-x="left" data-y="490" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1500">
-                            <a href="debt-services.php" class="btn-light">TAX ADVICE</a>
-                        </div> -->
-                    </li>
-                    <li data-transition="fade"> <img src="images/finance/bannar_2.jpg" alt="" data-bgposition="center center" data-bgfit="cover">
-                        <!-- LAYER NR. 1 -->
-                        <h1 class="tp-caption  tp-resizeme color_white text-right p-56" data-x="right" data-y="300" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
-                            <span class="p-w-300">STARTER</span>
-                        </h1>
-                        <!-- LAYER NR. 2 -->
-                        <h1 class="tp-caption  tp-resizeme color_white text-right p-56" data-x="right" data-y="360" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="600">
-                            <span class="p-w-300"> FINANCIAL PLANNING</span>
-                        </h1>
-                        <!-- LAYER NR. 3 -->
-                        <div class="tp-caption  tp-resizeme text-right" data-x="right" data-y="430" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="400">
-                            <p class="p_20 color_white">We look for those individuals who have limited goals at the current juncture of their life.The starter plan is ideal for the individuals<br> who want to experience the overall planning process,including Retirement Planning, but want to start with a limited set of goals.
-                            </p>
-                        </div>
-                        <!-- LAYER NR. 4 -->
-                        <!-- <div class="tp-caption  tp-resizeme text-right" data-x="right" data-y="490" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
-                            <a href="equity-services.php" class="btn-whitw">Explore</a>
-                        </div> -->
-                    </li>
-                    <li data-transition="fade"> <img src="images/finance/bannar_3.jpg" alt="" data-bgposition="center center" data-bgfit="cover">
-                        <!-- LAYER NR. 1 -->
-                        <h1 class="tp-caption  tp-resizeme color_white p-56" data-x="left" data-y="330" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
-                            <span class="p-w-300">EARLY PLANNING FOR RETIREMENT</span>
-                        </h1>
-                        <!-- LAYER NR. 2 -->
-                        <div class="tp-caption  tp-resizeme " data-x="left" data-y="400" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
-                            <p class="p_20 color_white">We look those individuals who want to start planning for their retirement at an early stage and have ample time on their side.<br>
-                             This Solution will focus mainly on Accumulation
-                            </div>
-                        </li>
-                        <li data-transition="fade"> <img src="images/finance/bannar_3.jpg" alt="" data-bgposition="center center" data-bgfit="cover">
-                        <!-- LAYER NR. 1 -->
-                        <h1 class="tp-caption  tp-resizeme color_white p-56" data-x="left" data-y="330" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
-                            <span class="p-w-300">RISK PLANNING</span>
-                        </h1>
-                        <!-- LAYER NR. 2 -->
-                        <div class="tp-caption  tp-resizeme " data-x="left" data-y="400" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
-                            <p class="p_20 color_white">We those people who have a significant insurance portfolio and feel the need to scrub
-it.This product can also cater to <br>young individuals as generally they need to get covered for a much higher risk attached to their life and health.
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-                <!-- END REVOLUTION SLIDER -->
-            </section>
-            <!-- Slider End -->
-            <!-- Services Start -->
-            <section id="s_services" class="p-t-100 p-b-100">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="heading">
-                                <div class="heading_border bg_red"></div>
-                                <p>What We Can Do</p>
-                                <h2>Special <span class="color_red">Services</span></h2>
-                            </div>
-                        </div>
+        <div >
+         <div id="myCarousel" class="carousel slide" data-ride="carousel">
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+            <div class="item active">
+                <img src="images/finance/nswealth_inde.png"  >
+            </div>
+
+            <div class="item">
+              <img src="images/finance/nswealth_inde.png"  >
+          </div>
+
+          <div class="item">
+              <img src="images/finance/nswealth_inde.png"  >
+          </div>
+          <div class="item">
+              <img src="images/finance/nswealth_inde.png"  >
+          </div>
+      </div>
+
+      <!-- Left and right controls -->
+      <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+</div>
+<!-- END REVOLUTION SLIDER -->
+</section>
+    <!-- Slider End -->
+    <!-- Services Start -->
+    <div>
+        
+    </div>
+    <section id="s_services" class="p-t-100 p-b-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="heading">
+                        <div class="heading_border bg_red"></div>
+                        <p>What We Can Do</p>
+                        <h2>Special <span class="color_red">Services</span></h2>
                     </div>
-                    <div class="row p-t-35 m-b-110">
-                        <div class="col-md-12">
-                            <div id="services_slider" class="owl-carousel">
+                </div>
+            </div>
+            <div class="row p-t-35 m-b-110">
+                <div class="col-md-12">
+                    <div id="services_slider" class="owl-carousel">
+                        <div class="item">
+                            <div class="services">
+                                <div class="image_s">
+                                    <a href="debt-services.php">
+                                        <img src="images/finance/sevices_4.jpg" alt="Owl Image"></a>
+                                    </div>
+                                    <h3 class="text-uppercase">INVESTMENT ADVICE</h3>
+                                    <p>We look at your current financial state, future goals and risk appetite, to arrive at your customised portfolio recommendation for you to make investments, and also provide the platform for making investments</p>
+                                    <a href="debt-services.php">#</a>
+                                </div>
+                            </div>
+                            <div class="item">
+                              <!--   <div class="services">
+                                    <div class="image_s">
+                                        <a href="equity-services.php">
+                                            <img src="images/finance/sevices_2.jpg" alt="Owl Image"></a>
+                                        </div>
+                                        <h3 class="text-uppercase">TAX ADVICE</h3>
+                                        <p>We analyse your income and savings information, to create a tax assessment, with advice on ways to save tax</p>
+                                        <a href="equity-services.php">#</a>
+                                    </div> -->
+                                    <div class="fb-page" data-href="https://www.facebook.com/nswealthindia/" data-tabs="timeline"  data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/nswealthindia/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/nswealthindia/">NS Wealth Solution Pvt Ltd</a></blockquote></div>
+                                </div>
                                 <div class="item">
                                     <div class="services">
                                         <div class="image_s">
-                                            <a href="debt-services.php">
-                                                <img src="images/finance/sevices_4.jpg" alt="Owl Image"></a>
+                                            <a href="credit-rating-services.php">
+                                                <img src="images/finance/sevices_3.jpg" alt="Owl Image"></a>
                                             </div>
-                                            <h3 class="text-uppercase">INVESTMENT ADVICE</h3>
-                                            <p>We look at your current financial state, future goals and risk appetite, to arrive at your customised portfolio recommendation for you to make investments, and also provide the platform for making investments</p>
-                                            <a href="debt-services.php">#</a>
+                                            <h3 class="text-uppercase">FINANCIAL GOAL ADVICE</h3>
+                                            <p>Financial Goal Advice</p>
+                                            <a href="credit-rating-services.php">#</a>
                                         </div>
                                     </div>
-                                    <div class="item">
-                                        <div class="services">
-                                            <div class="image_s">
-                                                <a href="equity-services.php">
-                                                    <img src="images/finance/sevices_2.jpg" alt="Owl Image"></a>
-                                                </div>
-                                                <h3 class="text-uppercase">TAX ADVICE</h3>
-                                                <p>We analyse your income and savings information, to create a tax assessment, with advice on ways to save tax</p>
-                                                <a href="equity-services.php">#</a>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="services">
-                                                <div class="image_s">
-                                                    <a href="credit-rating-services.php">
-                                                        <img src="images/finance/sevices_3.jpg" alt="Owl Image"></a>
-                                                    </div>
-                                                    <h3 class="text-uppercase">FINANCIAL GOAL ADVICE</h3>
-                                                    <p>Financial Goal Advice</p>
-                                                    <a href="credit-rating-services.php">#</a>
-                                                </div>
-                                            </div>
-                                        
-                                            </div>
-                                        </div>
-                                    </div>
+
                                 </div>
-                            </section>
-                            <!-- Services End -->
-                            <!-- Background_para Start -->
-                            <section id="background_para" class="p-t-90 p-b-90">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-md-12 text-center">
-                                            <p style="font-size:25px;">We are in financial consulting and Research with young and experience team since 2012. we offers effective assistance to our clients across India.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-                            <!-- Background_para Start -->
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- Services End -->
+                <!-- Background_para Start -->
+                <section id="background_para" class="p-t-90 p-b-90">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12 text-center">
+                                <p style="font-size:25px;">We are in financial consulting and Research with young and experience team since 2012. we offers effective assistance to our clients across India.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- Background_para Start -->
 
-                            <!-- Team us Start -->
-                            <?php include_once 'include/team.php' ?>
-                            <!-- Map End -->
+                <!-- Team us Start -->
+                <?php include_once 'include/team.php' ?>
+                <!-- Map End -->
 
 
-                            <!-- Footer Start -->
-                            <?php include_once 'include/footer.php' ?>
-                            <!-- Footer End -->
-                            <!-- Team Pop Up Start -->
-                         
-                            <!-- Slider's main "init" script -->
-                            <script type="text/javascript">
-                                /* https://learn.jquery.com/using-jquery-core/document-ready/ */
-                                jQuery(document).ready(function() {
-                                    /* initialize the slider based on the Slider's ID attribute from the wrapper above */
-                                    jQuery('#rev_slider').show().revolution({
-                                        /* options are 'auto', 'fullwidth' or 'fullscreen' */
-                                        sliderLayout: 'auto',
-                                        minHeight: '500',
-                                        /* basic navigation arrows and bullets */
-                                        navigation: {
-                                            arrows: {
-                                                enable: true,
-                                                style: "hesperiden",
-                                                hide_onleave: false
-                                            },
-                                            bullets: {
-                                                enable: true,
-                                                style: "hesperiden",
-                                                hide_onleave: false,
-                                                h_align: "center",
-                                                v_align: "bottom",
-                                                h_offset: 0,
-                                                v_offset: 20,
-                                                space: 5
-                                            }
-                                        }
-                                    });
-                                });
-                            </script>
-                            <!-- Team Pop Up End -->
-                            <!--Required JS -->
-                           <?php include_once 'include/jsfile.php' ?>
-                           <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+                <!-- Footer Start -->
+                <?php include_once 'include/footer.php' ?>
+                <!-- Footer End -->
+                <!-- Team Pop Up Start -->
 
-  ga('create', 'UA-97551264-1', 'auto');
-  ga('send', 'pageview');
+                <!-- Slider's main "init" script -->
+                <script type="text/javascript">
+                    /* https://learn.jquery.com/using-jquery-core/document-ready/ */
+                    jQuery(document).ready(function() {
+                        /* initialize the slider based on the Slider's ID attribute from the wrapper above */
+                        jQuery('#rev_slider').show().revolution({
+                            /* options are 'auto', 'fullwidth' or 'fullscreen' */
+                            sliderLayout: 'auto',
+                            minHeight: '200',
 
-</script>
-                        </body>
-                        </html>
+                            /* basic navigation arrows and bullets */
+                            navigation: {
+                                arrows: {
+                                    enable: true,
+                                    style: "hesperiden",
+                                    hide_onleave: false
+                                },
+                                bullets: {
+                                    enable: true,
+                                    style: "hesperiden",
+                                    hide_onleave: false,
+                                    h_align: "center",
+                                    v_align: "bottom",
+                                    h_offset: 0,
+                                    v_offset: 20,
+                                    space: 5
+                                }
+                            }
+                        });
+                    });
+                </script>
+                <!-- Team Pop Up End -->
+                <!--Required JS -->
+                <?php include_once 'include/jsfile.php' ?>
+                <script>
+                  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+                  ga('create', 'UA-97551264-1', 'auto');
+                  ga('send', 'pageview');
+
+              </script>
+          </body>
+          </html>

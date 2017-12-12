@@ -96,60 +96,89 @@
             <div class="pricing-table-grid">
                 <h3>Risk Planning</h3>
                 <ul>
-                    <li><span>Rs 2999/-</span></li>
-                    <li><a href="#">sassaa</a></li>
-                    <li><a href="#">sassaa</a></li>
-                    <li><a href="#">sassaa</a></li>
-                    <li><a href="#">sassaa</a></li>
-                    <li><a href="#">sasasa</a></li>
-                    <li class="price-btn"><a href="#">sasas</a></li>
+                    <li><span>1st Year Fees - Rs.2,999/</span></li>
+                    <li><a href="#">Advise on Existing Life Insurances</a></li>
+                    <li><a href="#">Advise on Existing Health Insurances</a></li>
+                    <li><a href="#">Advise on Existing Asset Insurances</a></li>
+                    <li><a href="#">Emergency Planning</a></li>
+                    <li><a href="#">Recommendation on Life Insurance needs</a></li>
+                    <li><a href="#">Recommendation on Health Insurance needs</a></li>
+                    <li><a href="#">Recommendation on Asset Insurance needs</a></li>
+                    
+              
                 </ul>
-                <a class="order-btn" href="#">Subscribe Now</a>
+                <a class="order-btn" href="https://www.payumoney.com/paybypayumoney/#/4D7E12E2E0177EC50F6B52768BE9C255">Subscribe Now</a>
             </div>
         </div>
         <div class="col-md-3">
             <div class="pricing-table-grid">
                 <h3>Early Planning For Retirement</h3>
                 <ul>
-                    <li><span>7999/-</span></li>
-                    <li><a href="#">sas</a></li>
-                    <li><a href="#">sasasas</a></li>
-                    <li><a href="#">sasa</a></li>
-                    <li><a href="#">sassaa</a></li>
-                    <li><a href="#">sasasa</a></li>
-                    <li class="price-btn"><a href="#">sasas</a></li>
+                    <li><span>1st Year Fees - Rs. 7,999/-</span></li>
+                    <li><span>Renewal Fees - 4,999/-</span></li>
+                    <li><a href="#">Advise on Existing Life Insurances</a></li>
+                    <li><a href="#">Advise on Existing Health Insurances</a></li>
+                    <li><a href="#">Advise on Existing Asset Insurances</a></li>
+                    <li><a href="#">Advise on Existing Mutual Funds Portfolio</a></li>
+                    <li><a href="#">Emergency Planning</a></li>
+                    <li><a href="#">Recommendation on Life Insurance needs</a></li>
+                    <li><a href="#">Recommendation on Health Insurance needs</a></li>
+                    <li><a href="#">Recommendation on Asset Insurance needs</a></li>
+                    <li><a href="#">Data Collection & Goal Setting</a></li>
+                    <li><a href="#">Asset Allocation & Planning for Retirement</a></li>
+                    <li><a href="#">Identifying Succession Planning needs</a></li>
+           
+                 
                 </ul>
-                <a class="order-btn" href="https://www.payumoney.com/paybypayumoney/#/302417">Subscribe Now</a>
-            </div>
-        </div>
-        <div class="col-md-3">
-            <div class="pricing-table-grid">
-                <h3>Dual Goal Planning</h3>
-                <ul>
-                    <li><span>9999/-</span></li>
-                    <li><a href="#">sasaa</a></li>
-                    <li><a href="#">sasasas</a></li>
-                    <li><a href="#">sasasa</a></li>
-                    <li><a href="#">sassaa</a></li>
-                    <li><a href="#">sasasa</a></li>
-                    <li class="price-btn"><a href="#">sasas</a></li>
-                </ul>
-                <a class="order-btn" href="https://www.payumoney.com/paybypayumoney/#/302417">Subscribe Now</a>
+                <a class="order-btn" href="https://www.payumoney.com/paybypayumoney/#/D98EBE2FFF2CFA3DFE27D9E2D4BC9AF5">Subscribe Now</a>
             </div>
         </div>
         <div class="col-md-3">
             <div class="pricing-table-grid">
                 <h3>Starter Financial Planning</h3>
                 <ul>
-                    <li><span>12999/-</span></li>
-                    <li><a href="#">sasa</a></li>
-                    <li><a href="#">sasasas</a></li>
-                    <li><a href="#">sasasa</a></li>
-                    <li><a href="#">sassaa</a></li>
-                    <li><a href="#">sasasa</a></li>
-                    <li class="price-btn"><a href="#">sasas</a></li>
+                    <li><span>1st Year Fees - Rs.12,999/-</span></li>
+                    <li><span>Renewal Fees - 8,999/-</span></li>
+                    <li><a href="#">Advise on Existing Life Insurances</a></li>
+                    <li><a href="#">Advise on Existing Health Insurances</a></li>
+                    <li><a href="#">Advise on Existing Asset Insurances</a></li>
+                    <li><a href="#">Advise on Existing Mutual Funds Portfolio</a></li>
+                    <li><a href="#">Emergency Planning</a></li>
+                    <li><a href="#">Recommendation on Life Insurance needs</a></li>
+                    <li><a href="#">Recommendation on Health Insurance needs</a></li>
+                    <li><a href="#">Recommendation on Asset Insurance needs</a></li>
+                    <li><a href="#">Data Collection & Goal Setting</a></li>
+                    <li><a href="#">Retirement Planning</a></li>
+                    <li><a href="#">Planning for Goals (2 Goals)</a></li>
+                    <li><a href="#">Asset Allocation for Goals</a></li>
+                    <li><a href="#">Identifying Succession Planning needs</a></li>
+                    
                 </ul>
-                <a class="order-btn" href="https://www.payumoney.com/paybypayumoney/#/302417">Subscribe Now</a>
+                <a class="order-btn" href="https://www.payumoney.com/paybypayumoney/#/A57439D337219A596BB28239BE0FFA74">Subscribe Now</a>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="pricing-table-grid">
+                <h3>Dual Goal Planning</h3>
+                <ul>
+                    <li><span>1st Year Fees - Rs.9,999/-;</span></li>
+                    <li><span>Renewal Fees - 5,999/-</span></li>
+                    <li><a href="#">Advise on Existing Life Insurances</a></li>
+                    <li><a href="#">Advise on Existing Health Insurances</a></li>
+                    <li><a href="#">Advise on Existing Asset Insurances</a></li>
+                    <li><a href="#">Advise on Existing Mutual Funds Portfolio</a></li>
+                    <li><a href="#">Emergency Planning</a></li>
+                    <li><a href="#">Recommendation on Life Insurance needs</a></li>
+                    <li><a href="#">Recommendation on Life Insurance needs</a></li>
+                    <li><a href="#">Recommendation on Health Insurance needs</a></li>
+                    <li><a href="#">Recommendation on Asset Insurance needs</a></li>
+                    <li><a href="#">Data Collection & Goal Setting</a></li>
+                    <li><a href="#">Planning for Goals (2 Goals)</a></li>
+                    <li><a href="#">Asset Allocation for Goals</a></li>
+                    <li><a href="#">Identifying Succession Planning needs</a></li>
+              
+                </ul>
+                <a class="order-btn" href="https://www.payumoney.com/paybypayumoney/#/47F85720517A9BCBCA2E0114E54B07C0">Subscribe Now</a>
             </div>
         </div>
         <div class="clearfix"> </div>

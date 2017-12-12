@@ -3701,7 +3701,7 @@ a {
 
 	border-radius:5px;
 
-	padding:42px 25px; min-height:442px;
+	padding:42px 25px; min-height:auto;
 
 }
 

@@ -3,7 +3,7 @@
 <body>
     <!-- Loader Start -->
       <?php include_once 'include/loader.php'; ?>
-<div class="pm-button"><a href="https://www.payumoney.com/paybypayumoney/#/302417"><img src="https://www.payumoney.com//media/images/payby_payumoney/buttons/111.png" /></a></div>
+<!-- <div class="pm-button"><a href="https://www.payumoney.com/paybypayumoney/#/302417"><img src="https://www.payumoney.com//media/images/payby_payumoney/buttons/111.png" /></a></div> -->
 <?php include_once 'include/headerBottom.php' ?><!-- Navbar End -->
 <nav class="navbar navbar-default navbar-sticky no-background bootsnav">
     <div class="container">
@@ -40,8 +40,8 @@
                         <li class="cool-link"><a href="#">Testimonials</a></li>
                         <li class="cool-link"><a href="career.php">Career</a></li>
                         <li class="cool-link active"><a href="contact.php">Contact</a></li>
-                        <li class="dropdown cool-link on"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Member Login</a>
-                                <ul class="dropdown-menu animated fadeInDown" style="display: block; opacity: 0;">
+                       <li class="dropdown cool-link on"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Member Login</a>
+                                <ul class="dropdown-menu animated fadeInDown" style="display: none; opacity: 1;">
                                     <li><a href="http://nswealth.my-portfolio.co.in/" target="_blank">Portfolio</a></li>
                                     <li><a href="https://www.ifastfinancial.co.in/ifast/acl/iFastClientLogin.svdo?ifaCo=NITEN&id=&password">IFAST Login</a></li>
                                     <li><a href="credit-rating-services.html">NS Consultant Login</a></li>
